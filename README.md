@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Online Activity
 
-You can use the [editor on GitHub](https://github.com/BumbleB2na/bumbleb2na.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am using Github for public projects only. I currently use Bitbucket for a lot of project work because it has free private respositories. That's why you won't see much activity from me on my [Github profile](https://github.com/BumbleB2na).
+  
+I learn by doing. I enjoy to focus on a single project in my spare time. An example of this is my [Stories Gone Mad app](https://mobilewebsmart.com/StoriesGoneMad).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The way that we work has changed a lot over the last several years. Some developers like to post code snippets on Github or templates for projects. Currently, I do more of that offline because, I would rather my Github profile to look more organized.
 
-### Markdown
+I use:
+* Stackoverflow for Q&A: http://stackoverflow.com/users/285714/bumbleb2na  
+* Github for projects I want to make public: https://github.com/BumbleB2na  
+* Bitbucket for private projects. 
+* JSFiddle.net to play with front-end code: https://jsfiddle.net/user/BumbleB2na/fiddles/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BumbleB2na/bumbleb2na.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
