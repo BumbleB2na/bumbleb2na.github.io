@@ -1,22 +1,14 @@
 [Home](https://bumbleb2na.github.io)  
   
-I am a Fullstack Developer. I have a love for front-end technologies and always considered it a major asset while still making leaps with server-side development. This has made me more suitable for working on web and mobile application projects. I started with Web and Flash, moved in to .Net and Javascript, and lately have been working with MEAN stack a lot more. Throughout this experience I have consistently kept my skills up to date with frontend.  
-  
-### Repositories
-I am using Github for public projects only or to watch libraries that I am interested in at the time. I currently use Bitbucket for a lot of project work because it has free private respositories. That's why you won't see much activity from me on my [Github profile](https://github.com/BumbleB2na).
+Hi, 👋 I develop mobile-friendly web applications, apps and intranets. I am a Full Stack developer with my top skills on the Microsoft stack. I have recent experience with Angular. Currently using React and SharePoint Online. I have additional experience with Node.js, Serverless and AWS Cloud. My added strength is a strong understanding of Front End development that began with building websites and apps as a hobby. I now develop enterprise-level web applications from end-to-end.
   
 ### Projects
-I have shared a couple of projects on Github that I wanted to make public. I am selective with what I share because when I share something I want it to be useful for others.  
-  
-I learn by doing. I enjoy to focus on a single project in my spare time. An example of this is my [Stories Gone Mad app](https://mobilewebsmart.com/StoriesGoneMad).
-ore organized.  
-  
-### Blogging
-I tried blogging for awhile but do not do that much any more. Currently, I contribute pages and documentation with the team I work with. All of that is private.  
-  
+I've developed a mobile app, [Stories Gone Mad app](https://mobilewebsmart.com/StoriesGoneMad) using front-end code and a .Net/SQL backend.
+
 ### Code samples
-The way that we work has changed a lot over the last several years. Some developers like to post code snippets on Github or templates for projects. Currently, I do more of that offline or on my [JSFiddle.net profile](https://jsfiddle.net/user/BumbleB2na/fiddles/).  
+See my latest [github repositories](https://github.com/BumbleB2na?tab=repositories).
+
+Or, my [JSFiddle.net profile](https://jsfiddle.net/user/BumbleB2na/fiddles/) has a few older code examples.  
   
 ### Forums
-I use my [Stackoverflow profile](http://stackoverflow.com/users/285714/bumbleb2na) for Q&A. I have been less active on there in recent years probably because I have been working in a more collaborative environment.  
-  
+I use [Stackoverflow profile](http://stackoverflow.com/users/285714/bumbleb2na) for Q&A.
