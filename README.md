@@ -6,7 +6,11 @@ I am a Full Stack developer with strengths in the Microsoft stack and Front-end 
   
 ### Projects
 
-[Stories Gone Mad!](https://mobilewebsmart.com/StoriesGoneMad) -- Read familiar classics, like The Three Little Pigs, then play a game to mix up the words. Each story was adapted to work as a template.
+App: Stories Gone Mad!
+* [Google Play](https://play.google.com/store/apps/details?id=com.BumbleB2na.StoriesGoneMad)
+* [iOS App Store](https://apps.apple.com/us/app/stories-gone-mad/id724532866?ls=1)
+
+Read familiar classics, like The Three Little Pigs, then play a game to mix up the words. Each story was adapted to work as a template.
 
 This mobile app is built using Front-End code and a .Net/SQL backend. The code is not on github. I built a .Net backend that is like a custom CMS used for creating story templates. I finished development on it in 2013, back when a paid version of an app was a more common business model. Without ads I make just enough sales each year to offset the cost of renewing an iOS Developer Certificate. If you want to try out the free version then leave me a nice review on the app store, I'd be grateful for it!
 
