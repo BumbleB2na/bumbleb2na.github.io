@@ -14,10 +14,10 @@ I am a Full Stack developer with strengths in the Microsoft stack and Front-end 
 
 Read familiar classics, like The Three Little Pigs, then play a game to mix up the words. Each story was adapted to work as a template.
 
-![Screenshot 1](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen1_t.png)
-![Screenshot 2](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen2_t.png)
-![Screenshot 3](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen3_t.png)
-![Screenshot 4](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen4_t.png)
+[![Screenshot 1](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen1_t.png)](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen1.png)
+[![Screenshot 2](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen2_t.png)](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen2.png)
+[![Screenshot 3](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen3_t.png)](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen3.png)
+[![Screenshot 4](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen4_t.png)](http://mobilewebsmart.com/StoriesGoneMad/images/screens/480x800_screen4.png)
 
 This mobile app is built using Front-End code and a .Net/SQL backend. The code is not on github. I built a .Net backend that is like a custom CMS used for creating story templates. I finished development on it in 2013, back when a paid version of an app was a more common business model. Without ads I make just enough sales each year to offset the cost of renewing an iOS Developer Certificate. If you want to try out the free version, then leave a nice review on the app store, I would be grateful.
 
