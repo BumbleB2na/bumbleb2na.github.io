@@ -28,8 +28,8 @@ Mobile app to save links for later
 
 Add a new hyperlink to a list. When links open in browser they are flagged as visited.
 
-[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen1_s.png)](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen1.png)
-[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen2_s.png)](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen2.png)
+[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1.png)
+[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2.png)
 
 React Native app built with Expo and AWS Amplify. Tested on Web and Android. Requires signup and supports multiple users; Uses Amazon Cognito to authenticate and authorizes all GraphQL CRUD operations.
 
@@ -39,8 +39,8 @@ Mobile app for basic management of a To Do list.
 
 Quickly add tasks to a To Do list or mark tasks as complete. View or delete completed tasks in a separate screen.
 
-[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen1_s.png)](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen1.png)
-[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen2_s.png)](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen2.png)
+[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-todo-app/master/screenshots/react-native-todo-screen1_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-todo-app/master/screenshots/react-native-todo-screen1.png)
+[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-todo-app/master/screenshots/react-native-todo-screen2_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-todo-app/master/screenshots/react-native-todo-screen2.png)
 
 React Native app built with Expo. Tested on Web and Android. Only uses AsyncStorage/localStorage for now.
 
