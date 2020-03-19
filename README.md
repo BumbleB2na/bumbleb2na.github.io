@@ -3,8 +3,6 @@
 # About
   
 Hi, 👋 I develop mobile-friendly web applications, apps and intranets.
-
-I am a Full Stack developer with strengths in the Microsoft stack and Front-end Development.
   
 # Projects
 
@@ -22,10 +20,27 @@ Read familiar classics, like The Three Little Pigs, then play a game to mix up t
 This mobile app is built using Front-End code and a .Net/SQL backend. The code is not on github. I built a .Net backend that is like a custom CMS used for creating story templates. I finished development on it in 2013, back when a paid version of an app was a more common business model. Without ads I make just enough sales each year to offset the cost of renewing an iOS Developer Certificate. If you want to try out the free version, then leave a nice review on the app store, I would be grateful.
 
 # Code samples
-See my latest [github repositories](https://github.com/BumbleB2na?tab=repositories) for a sample of what sort of things I am in to.
+See my latest [pinned github repositories](https://github.com/BumbleB2na) for a samples of open-source projects.
 
-Or, my [JSFiddle.net profile](https://jsfiddle.net/user/BumbleB2na/fiddles/) has a few older code examples.
+## [Save Links For Later](https://github.com/BumbleB2na/react-native-save-links-app/)
 
-I have done some Q&A [Stackoverflow profile](http://stackoverflow.com/users/285714/bumbleb2na) on Stackoverflow.
+Mobile app to save links for later
 
-You might be here to review my code to better understand how I work. As I get more in to open-source I'll expand here with a better walkthrough of my repositories. If you need me to write a coding test, please understand that I do not want to commit any more than 2 hours of my time. I would want to work in a public github repository, committing code as I go so that you can see how I would manage in an Agile environment. Thank you.
+Add a new hyperlink to a list. When links open in browser they are flagged as visited.
+
+[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen1_s.png)](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen1.png)
+[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen2_s.png)](https://github.com/BumbleB2na/react-native-save-links-app/blob/master/screenshots/react-native-save-links-screen2.png)
+
+React Native app built with Expo and AWS Amplify. Tested on Web and Android. Requires signup and supports multiple users; Uses Amazon Cognito to authenticate and authorizes all GraphQL CRUD operations.
+
+## [To Do List](https://github.com/BumbleB2na/react-native-todo-app/)
+
+Mobile app for basic management of a To Do list.
+
+Quickly add tasks to a To Do list or mark tasks as complete. View or delete completed tasks in a separate screen.
+
+[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen1_s.png)](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen1.png)
+[![To Do App Screenshot](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen2_s.png)](https://github.com/BumbleB2na/react-native-todo-app/blob/master/screenshots/react-native-todo-screen2.png)
+
+React Native app built with Expo. Tested on Web and Android. Only uses AsyncStorage/localStorage for now.
+
