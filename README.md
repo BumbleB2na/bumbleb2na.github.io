@@ -44,9 +44,9 @@ Quickly add tasks to a To Do list or mark tasks as complete. View or delete comp
 
 React Native app built with Expo. Tested on Web and Android. Only uses AsyncStorage/localStorage for now.
 
-# Save Links For Later (Web version)
+# [Save Links For Later (Web version)](https://github.com/BumbleB2na/react-save-links)
 
-Web app to quickly save links to a list for later
+Web app to quickly save links to a list for later. [View demo](https://bumbleb2na.github.io/react-save-links).
 
 Add a new hyperlink to a list. When links open in browser they are flagged as visited.
 
