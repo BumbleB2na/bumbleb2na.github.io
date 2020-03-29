@@ -28,8 +28,8 @@ Mobile app to save links for later
 
 Add a new hyperlink to a list. When links open in browser they are flagged as visited.
 
-[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1.png)
-[![To Do App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2.png)
+[![Save Links For Later App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen1.png)
+[![Save Links For Later App Screenshot](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2_s.png)](https://raw.githubusercontent.com/BumbleB2na/react-native-save-links-app/master/screenshots/react-native-save-links-screen2.png)
 
 React Native app built with Expo and AWS Amplify. Tested on Web and Android. Requires signup and supports multiple users; Uses Amazon Cognito to authenticate and authorizes all GraphQL CRUD operations.
 
@@ -44,3 +44,14 @@ Quickly add tasks to a To Do list or mark tasks as complete. View or delete comp
 
 React Native app built with Expo. Tested on Web and Android. Only uses AsyncStorage/localStorage for now.
 
+# Save Links For Later (Web version)
+
+Web app to quickly save links to a list for later
+
+Add a new hyperlink to a list. When links open in browser they are flagged as visited.
+
+[![Save Links For Later Screenshot](
+https://raw.githubusercontent.com/BumbleB2na/react-save-links/master/screenshots/react-save-links-screen1_s.png)](
+https://raw.githubusercontent.com/BumbleB2na/react-save-links/master/screenshots/react-save-links-screen1.png)
+
+React app built with Create React App. Uses Material UI.
