@@ -3,7 +3,9 @@
 # About
   
 Hi, 👋 I develop mobile-friendly web applications, apps and intranets.
-  
+
+![retro-db-and-web-med](https://user-images.githubusercontent.com/896163/116345516-86ec2f00-a7a5-11eb-8628-01d03dfc2be0.png)
+
 # Projects
 
 ## Stories Gone Mad!
